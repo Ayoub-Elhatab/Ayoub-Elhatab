@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Ayoub-Elhatab/Ayoub-Elhatab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 I'm a software developer who enjoys learning new technologies and building practical projects.  <br>I like exploring different areas of development, improving my skills, and creating clean, useful solutions.<br>
