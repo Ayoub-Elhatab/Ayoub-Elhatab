@@ -17,4 +17,8 @@ you can find me on : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ayoub-Elhatab&theme=tokyonight)
 
 
-> “Code is like humor. When you have to explain it, it’s bad.”
+
+<p align="center" style="color:#4da6ff;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.”</i></p>
+<p align="center" style="color:#4da6ff;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
