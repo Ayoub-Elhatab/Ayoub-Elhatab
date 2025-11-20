@@ -1,7 +1,7 @@
-## Hi there 👋
+<p align="center">Hi there 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4DA6FF&width=600&lines=Welcome+to+my+GitHub+Profile;Backend+Developer;Clean+Code+Enthusiast;Always+Learning" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?size=28&color=4DA6FF&width=600&lines=Welcome+to+my+GitHub+Profile;Backend+Developer;Clean+Code+Enthusiast;Always+Learning" />
 </p>
 
 
