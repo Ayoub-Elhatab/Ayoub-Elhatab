@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4DA6FF&width=600&lines=Welcome+to+my+GitHub+Profile;Backend+Developer;Clean+Code+Enthusiast;Always+Learning" />
@@ -6,7 +6,7 @@
 
 
 
-## About Me:
+## About Me :
 I'm a Backend developer who enjoys learning new technologies and building practical projects.  <br>I like exploring different areas of development, improving my skills, and creating clean, useful solutions.<br>
 
 
