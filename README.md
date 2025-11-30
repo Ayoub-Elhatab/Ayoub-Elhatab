@@ -1,6 +1,6 @@
 ## Hi there, I'm Ayoub
 
-I am Ayoub, a backend developer using Java Spring Boot.  
+A backend developer using Java and Spring Boot.  
 Currently learning React.
 
 you can find me on : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-elhatab) 
